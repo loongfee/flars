@@ -1,0 +1,1 @@
+Implementation of LARS algorithm in C++.
